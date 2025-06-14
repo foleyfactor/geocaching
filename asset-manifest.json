@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geocaching/static/css/main.f855e6bc.css",
+    "main.js": "/geocaching/static/js/main.03845556.js",
+    "static/js/453.fbb066cd.chunk.js": "/geocaching/static/js/453.fbb066cd.chunk.js",
+    "index.html": "/geocaching/index.html",
+    "main.f855e6bc.css.map": "/geocaching/static/css/main.f855e6bc.css.map",
+    "main.03845556.js.map": "/geocaching/static/js/main.03845556.js.map",
+    "453.fbb066cd.chunk.js.map": "/geocaching/static/js/453.fbb066cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.03845556.js"
+  ]
+}
