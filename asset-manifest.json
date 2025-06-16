@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/geocaching/static/css/main.5134637d.css",
-    "main.js": "/geocaching/static/js/main.8f82f724.js",
+    "main.css": "/geocaching/static/css/main.c8da5175.css",
+    "main.js": "/geocaching/static/js/main.ce6e26fd.js",
     "static/js/453.fbb066cd.chunk.js": "/geocaching/static/js/453.fbb066cd.chunk.js",
     "index.html": "/geocaching/index.html",
-    "main.5134637d.css.map": "/geocaching/static/css/main.5134637d.css.map",
-    "main.8f82f724.js.map": "/geocaching/static/js/main.8f82f724.js.map",
+    "main.c8da5175.css.map": "/geocaching/static/css/main.c8da5175.css.map",
+    "main.ce6e26fd.js.map": "/geocaching/static/js/main.ce6e26fd.js.map",
     "453.fbb066cd.chunk.js.map": "/geocaching/static/js/453.fbb066cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5134637d.css",
-    "static/js/main.8f82f724.js"
+    "static/css/main.c8da5175.css",
+    "static/js/main.ce6e26fd.js"
   ]
 }
